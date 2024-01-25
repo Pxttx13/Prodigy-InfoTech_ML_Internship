@@ -1,0 +1,17 @@
+Dataset Description
+The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
+
+A note on hand labeling
+Per the rules and spirit of this contest, please do not manually label your submissions. We work hard to fair and fun contests, and ask for the same respect in return.
+
+ Please don't cheat
+"I'm a good doggie who deserves a good algorithm.
+And chew bones. Please send chew bones."
+
+However, given that there is always one willing to cheat to rise to glory, we reserve the right to wield the following anti-doping measures:
+
+Ask to spot check your code at any point in the competition. Failure to provide proof of algorithm within a reasonable time frame may result in disqualification.
+Release a new test set towards the end of the competition and require predictions for this new set (Asirra has 3 million images, lest you think we'll run out of cats).
+At any time during the competition, release a randomized version of a test set. This may include nefarious tricks to make matching the old and new test sets very annoying (e.g. removing rows, reversing orientation, rescaling the images, nonlinear pixel transformations).
+After the competition, require access to your model to verify that the solution does not utilize human intervention.
+In short, if you cheat by hand labeling your predictions, expect to do it all over again, possibly many times.  Thanks in advance for a fair competition and have fun.
