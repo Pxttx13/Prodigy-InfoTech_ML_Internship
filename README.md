@@ -15,10 +15,10 @@ This repository contains all the submitted patch files of the various tasks assi
 [Click here to see Task-3](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_03-main)
 
 #### 4. Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture based control systems.
-[Click here to see Task-3](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_04-main)
+[Click here to see Task-4](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_04-main)
 
 #### 5. Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices. 
-[Click here to see Task-3](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_05-main)
+[Click here to see Task-5](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_05-main)
 
 ---
 
