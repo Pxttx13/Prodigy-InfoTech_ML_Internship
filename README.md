@@ -21,4 +21,10 @@ This repository contains all the submitted patch files of the various tasks assi
 [Click here to see Task-5](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/tree/main/PRODIGY_ML_05-main)
 
 ---
+#### My Certificate of Completion
+![image](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/assets/93585364/a40eaa9a-4ea4-47a7-a10b-472786ec8c69)
+
+---
+#### My Letter of Recommendation 
+![image](https://github.com/Pxttx13/Prodigy-InfoTech_ML_Internship/assets/93585364/b24c4b53-ce82-4cf8-90ae-14a705726c53)
 
